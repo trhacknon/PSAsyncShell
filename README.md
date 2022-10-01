@@ -1,4 +1,4 @@
-<p align="center"><img width=600 alt="PSAsyncShell" src="https://github.com/JoelGMSec/PSAsyncShell/blob/main/PSAsyncShell.png"></p>
+<p align="center"><img width=600 alt="PSAsyncShell" src="https://github.com/trhacknon/PSAsyncShell/blob/main/PSAsyncShell.png"></p>
 
 # PSAsyncShell
 **PSAsyncShell** is an Asynchronous TCP Reverse Shell written in pure PowerShell. 
@@ -16,7 +16,7 @@ Additionally, this tool features command history, screen wiping, file uploading 
 It is recommended to clone the complete repository or download the zip file.
 You can do this by running the following command:
 ```
-git clone https://github.com/JoelGMSec/PSAsyncShell
+git clone https://github.com/trhacknon/PSAsyncShell
 ```
 
 
@@ -31,7 +31,7 @@ git clone https://github.com/JoelGMSec/PSAsyncShell
  |_|   |____/_/   \_\___/\__, |_| |_|\___|____/|_| |_|\___|_|_|
                          |___/
 
-  ---------------------- by @JoelGMSec -----------------------
+  ---------------------- by @trhacknon -----------------------
 
  Info:  This tool helps you to get a remote shell
         over asynchronous TCP to bypass firewalls
@@ -57,13 +57,13 @@ This project is licensed under the GNU 3.0 license - see the LICENSE file for mo
 
 
 # Credits and Acknowledgments
-This tool has been created and designed from scratch by Joel Gámez Molina // @JoelGMSec
+This tool has been created and designed from scratch by Joel Gámez Molina // @trhacknon
 
 
 # Contact
 This software does not offer any kind of guarantee. Its use is exclusive for educational environments and / or security audits with the corresponding consent of the client. I am not responsible for its misuse or for any possible damage caused by it.
 
-For more information, you can find me on Twitter as [@JoelGMSec](https://twitter.com/JoelGMSec) and on my blog [darkbyte.net](https://darkbyte.net).
+For more information, you can find me on Twitter as [@trhacknon](https://twitter.com/) and on my blog [darkbyte.net](https://darkbyte.net).
 
 
 # Support
